@@ -23,3 +23,15 @@ This repository contains the code and data for an automated invoice data extract
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
+
+## Usage
+
+1. Set up the project environment:
+   ```
+   import torch
+   from IPython.display import Image, clear_output
+   from utils.downloads import attempt_download
+
+   # Clear any previous output
+   clear_output()
+   print('Setup complete. Using torch %s %s' % (torch.__version__, torch.cuda.get_device_properties(0) if torch.cuda.is_available() else 'CPU'))
