@@ -100,6 +100,6 @@ This repository contains the code and data for an automated invoice data extract
            break
 
 ## Acknowledgements
-   YOLOv5
-   Roboflow
-   Pytesseract
+1. YOLOv5
+2. Roboflow
+3. Pytesseract
