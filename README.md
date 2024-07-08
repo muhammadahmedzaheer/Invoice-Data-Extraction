@@ -3,10 +3,9 @@
 This repository contains the code and data for an automated invoice data extraction project using computer vision and deep learning techniques.
 
 ## Project Structure
-- `data/`: Contains the dataset used for the project.
-- `notebooks/`: Jupyter notebooks for data analysis and model training.
-- `docs/`: Project report and additional documentation.
-- `requirements.txt`: List of dependencies required to run the project.
+- `dataset`: Contains the dataset used for the project.
+- `notebook`: Jupyter notebook for data analysis and model training.
+- `requirements`: List of dependencies required to run the project.
 
 ## Getting Started
 
@@ -22,4 +21,5 @@ This repository contains the code and data for an automated invoice data extract
    cd Automated-Invoice-Data-Extraction
 
 2. Install the required packages:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
