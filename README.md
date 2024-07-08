@@ -17,7 +17,7 @@ This repository contains the code and data for an automated invoice data extract
 
 1. Clone the repository:
    ```
-   git clone https://github.com/muhammadahmedzaheer/Automated-Invoice-Data-Extraction.git
+   git clone https://github.com/muhammadahmedzaheer/Invoice-Data-Extraction.git
    cd Automated-Invoice-Data-Extraction
 
 2. Install the required packages:
